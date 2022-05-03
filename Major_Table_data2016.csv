@@ -1,0 +1,85 @@
+Broad discipline,College/School,Major name,Admit GPA range,Admit rate,Enroll GPA range,Yield rate,Admits,Applicants,Enrolls
+Agriculture & Natural Resources,Not applicable,Environmental systems - environmental chemistry,3.37 - 3.80,0.6,3.37 - 3.86,0.555555556,9,15,5
+Agriculture & Natural Resources,Not applicable,Environmental systems - environmental policy,3.37 - 3.78,0.490196078,masked,0.12,25,51,3
+"Area, Ethn, Cultur & Gender Stu",Not applicable,Chinese studies,3.15 - 3.68,0.355263158,2.92 - 3.34,0.222222222,27,76,6
+"Area, Ethn, Cultur & Gender Stu",Not applicable,Japanese studies,3.26 - 3.85,0.594202899,3.19 - 3.65,0.219512195,41,69,9
+Biological Sciences,Not applicable,Biochemistry & cell biology,3.56 - 3.91,0.575620767,3.46 - 3.82,0.317647059,255,443,81
+Biological Sciences,Not applicable,Biology,3.48 - 3.85,0.419064748,3.46 - 3.88,0.412017167,233,556,96
+Biological Sciences,Not applicable,Chemistry - bioinformatics,3.36 - 3.91,0.777777778,masked,0.428571429,7,9,3
+Biological Sciences,Not applicable,"Ecology, behavior & evolution",3.50 - 3.63,0.333333333,3.48 - 3.60,0.315789474,19,57,6
+Biological Sciences,Not applicable,Human biology,3.51 - 3.87,0.502183406,3.43 - 3.78,0.4,230,458,92
+Biological Sciences,Not applicable,Marine biology,3.45 - 3.75,0.376470588,3.30 - 3.69,0.65625,32,85,21
+Biological Sciences,Not applicable,Microbiology,3.42 - 3.78,0.434782609,3.14 - 3.51,0.275,40,92,11
+Biological Sciences,Not applicable,Molecular biology,3.54 - 3.90,0.54954955,3.40 - 3.74,0.180327869,61,111,11
+Biological Sciences,Not applicable,Physiology & neuroscience,3.51 - 3.86,0.389344262,3.38 - 3.67,0.284210526,95,244,27
+Business & Management,Not applicable,Management science,3.50 - 3.90,0.543478261,3.41 - 3.77,0.35,100,184,35
+"Communication, Journalism & Rel",Not applicable,Communication arts,3.43 - 3.80,0.503208066,3.39 - 3.71,0.276867031,549,1091,152
+Computer & Information Sciences,Not applicable,Computer science,3.75 - 4.00,0.249710983,3.69 - 3.93,0.481481481,216,865,104
+Engineering,Not applicable,Aerospace engineering,3.62 - 3.91,0.311594203,3.67 - 3.80,0.395348837,43,138,17
+Engineering,Not applicable,Bioengineering,3.86 - 4.00,0.264705882,3.89 - 3.94,0.407407407,27,102,11
+Engineering,Not applicable,Bioengineering (biotech),3.60 - 3.88,0.480769231,3.62 - 3.82,0.6,25,52,15
+Engineering,Not applicable,Chemical engineering,3.81 - 4.00,0.374193548,3.79 - 3.86,0.086206897,58,155,5
+Engineering,Not applicable,Computer engineering,3.74 - 3.99,0.306878307,3.60 - 3.90,0.362068966,58,189,21
+Engineering,Not applicable,Electrical engineering - bs,3.68 - 3.97,0.359756098,3.59 - 3.83,0.203389831,118,328,24
+Engineering,Not applicable,Environmental engineering,3.40 - 3.81,0.530612245,3.66 - 3.83,0.269230769,26,49,7
+Engineering,Not applicable,Mechanical engineering,3.74 - 3.96,0.267734554,3.66 - 3.92,0.162393162,117,437,19
+Engineering,Not applicable,Nanoengineering,3.53 - 3.75,0.596774194,3.49 - 3.74,0.432432432,37,62,16
+Engineering,Not applicable,Structural engineering,3.53 - 3.84,0.507575758,3.47 - 3.74,0.388059701,67,132,26
+Family & Consumer Sci/Human Sci,Not applicable,Pre-human development,3.34 - 3.74,0.414285714,3.24 - 3.88,0.413793103,29,70,12
+Fine & Applied Arts,Not applicable,Art history/criticism,3.45 - 3.85,0.476923077,3.37 - 3.84,0.161290323,31,65,5
+Fine & Applied Arts,Not applicable,Drama,3.46 - 3.84,0.439716312,3.46 - 3.73,0.338709677,62,141,21
+Fine & Applied Arts,Not applicable,Music,3.36 - 3.78,0.388888889,masked,0.214285714,14,36,3
+Fine & Applied Arts,Not applicable,Studio art,3.43 - 3.79,0.49122807,3.09 - 3.78,0.321428571,56,114,18
+Fine & Applied Arts,Not applicable,Visual arts - media,3.37 - 3.89,0.48241206,3.34 - 3.89,0.46875,96,199,45
+Foreign Languages & Lliterature,Not applicable,Linguistics,3.46 - 3.83,0.5625,3.40 - 3.82,0.142857143,63,112,9
+Interdisciplinary Studies,Not applicable,Cognitive science,3.32 - 3.74,0.506097561,3.25 - 3.67,0.542168675,83,164,45
+Interdisciplinary Studies,Not applicable,Interdisciplinary computer & the arts,3.40 - 3.80,0.545454545,3.30 - 3.81,0.833333333,6,11,5
+Interdisciplinary Studies,Not applicable,International studies - economics,3.24 - 3.74,0.6625,3.16 - 3.70,0.443396226,106,160,47
+Interdisciplinary Studies,Not applicable,International studies - international business,3.41 - 3.82,0.466165414,3.20 - 3.74,0.424731183,186,399,79
+Interdisciplinary Studies,Not applicable,International studies - linguistics,3.15 - 3.70,0.454545455,masked,0.3,10,22,3
+Interdisciplinary Studies,Not applicable,International studies - political science,3.47 - 3.76,0.522123894,3.21 - 3.65,0.203389831,59,113,12
+Interdisciplinary Studies,Not applicable,International studies - sociology,3.46 - 3.80,0.634920635,3.48 - 3.66,0.25,40,63,10
+Interdisciplinary Studies,Not applicable,Pre-mathematics - computer science,3.43 - 3.77,0.79375,3.42 - 3.78,0.417322835,127,160,53
+Interdisciplinary Studies,Not applicable,Undeclared,3.26 - 3.70,0.944248412,3.14 - 3.55,0.311659193,1338,1417,417
+Letters,Not applicable,History,3.46 - 3.88,0.514018692,3.15 - 3.61,0.145454545,165,321,24
+Letters,Not applicable,"Literature, english/american",3.38 - 3.80,0.535483871,3.24 - 3.78,0.180722892,83,155,15
+Letters,Not applicable,Literature/writing,3.40 - 3.78,0.432624113,3.23 - 3.64,0.229508197,61,141,14
+Letters,Not applicable,Philosophy,3.48 - 3.85,0.530172414,3.32 - 3.85,0.081300813,123,232,10
+Mathematics,Not applicable,Applied mathematics,3.56 - 3.88,0.616666667,3.24 - 3.73,0.207207207,111,180,23
+Mathematics,Not applicable,Mathematics,3.47 - 3.88,0.610921502,3.37 - 3.79,0.268156425,179,293,48
+Mathematics,Not applicable,Mathematics/economics,3.63 - 3.94,0.614213198,3.36 - 3.88,0.247933884,121,197,30
+Mathematics,Not applicable,Probability and statistics,3.55 - 3.90,0.700636943,3.48 - 3.66,0.227272727,110,157,25
+Physical Sciences,Not applicable,Chemistry,3.38 - 3.76,0.603389831,3.19 - 3.72,0.308988764,178,295,55
+Physical Sciences,Not applicable,Chemistry - biochemistry,3.46 - 3.92,0.601156069,3.37 - 3.84,0.432692308,104,173,45
+Physical Sciences,Not applicable,Earth sciences,3.17 - 3.76,0.27027027,3.07 - 3.74,0.7,10,37,7
+Physical Sciences,Not applicable,Molecular synthesis,3.48 - 3.67,0.666666667,masked,0.5,6,9,3
+Physical Sciences,Not applicable,Natural sciences,3.29 - 3.66,0.402777778,3.18 - 3.61,0.24137931,29,72,7
+Physical Sciences,Not applicable,Pharmacological chemistry,3.41 - 3.80,0.555555556,3.27 - 3.59,0.516666667,60,108,31
+Physical Sciences,Not applicable,Physics,3.41 - 3.89,0.554140127,3.29 - 3.67,0.16091954,87,157,14
+Physical Sciences,Not applicable,Physics (specialty in materials physics),3.31 - 3.71,0.857142857,masked,0.25,12,14,3
+Physical Sciences,Not applicable,Physics with specialization in computational physics,3.35 - 3.58,0.722222222,masked,0.307692308,13,18,4
+Physical Sciences,Not applicable,"Physics, general",3.51 - 3.56,0.454545455,masked,0.6,5,11,3
+Psychology,Not applicable,Psychology,3.42 - 3.88,0.498940678,3.29 - 3.75,0.278131635,471,944,131
+Psychology,Not applicable,Psychology with a specialization in clinical psychology,3.36 - 3.89,0.389380531,3.04 - 3.54,0.340909091,44,113,15
+Psychology,Not applicable,Psychology with a specialization in cognitive psychology,3.35 - 3.85,0.410714286,3.26 - 3.72,0.304347826,23,56,7
+Psychology,Not applicable,Psychology with a specialization in developmental psychology,3.45 - 3.73,0.487179487,3.46 - 3.62,0.368421053,19,39,7
+Psychology,Not applicable,Psychology with a specialization in human health,3.31 - 3.79,0.448979592,3.31 - 3.52,0.272727273,22,49,6
+Psychology,Not applicable,Psychology with a specialization in social psychology,3.53 - 3.83,0.404255319,3.35 - 3.76,0.342105263,38,94,13
+Public Health,Not applicable,Global health,3.29 - 3.79,0.592105263,3.24 - 3.68,0.444444444,45,76,20
+Public Health,Not applicable,Public health,3.47 - 3.85,0.443298969,3.32 - 3.82,0.465116279,86,194,40
+Social Sciences,Not applicable,Anthropology,3.41 - 3.82,0.3875,2.94 - 3.70,0.161290323,62,160,10
+Social Sciences,Not applicable,Anthropology(concentration in sociocultral anthropology),3.42 - 3.85,0.522988506,3.14 - 3.53,0.142857143,91,174,13
+Social Sciences,Not applicable,Economics,3.54 - 3.90,0.55377129,3.44 - 3.81,0.351493849,1138,2055,400
+Social Sciences,Not applicable,Political science,3.42 - 3.83,0.566945607,3.08 - 3.56,0.184501845,271,478,50
+Social Sciences,Not applicable,Political science - american politics,3.27 - 3.81,0.468085106,3.15 - 4.00,0.227272727,22,47,5
+Social Sciences,Not applicable,Political science - international relations,3.36 - 3.82,0.607305936,3.15 - 3.76,0.263157895,133,219,35
+Social Sciences,Not applicable,Political science - public law,3.28 - 3.68,0.505050505,3.20 - 3.50,0.26,50,99,13
+Social Sciences,Not applicable,Political science - public policy,3.25 - 3.80,0.575757576,3.02 - 3.65,0.263157895,38,66,10
+Social Sciences,Not applicable,Sociology,3.36 - 3.87,0.517890772,3.13 - 3.64,0.156363636,275,531,43
+Social Sciences,Not applicable,Sociology - culture and communications,3.38 - 3.76,0.431372549,3.25 - 3.80,0.318181818,22,51,7
+Social Sciences,Not applicable,Sociology - economy and society,3.38 - 3.84,0.711111111,3.52 - 3.68,0.28125,32,45,9
+Social Sciences,Not applicable,Sociology - law and society,3.30 - 3.72,0.454545455,3.26 - 3.80,0.2,65,143,13
+Social Sciences,Not applicable,Sociology - science and medicine,3.38 - 3.60,0.571428571,masked,0.25,16,28,4
+Social Sciences,Not applicable,Sociology - social inequality,3.44 - 3.83,0.477272727,masked,0.142857143,21,44,3
+Social Sciences,Not applicable,Undeclared - social science,3.40 - 3.84,0.428571429,3.40 - 4.00,0.555555556,9,21,5
+Social Sciences,Not applicable,Urban studies & planning,3.38 - 3.81,0.563829787,3.17 - 3.69,0.188679245,53,94,10
